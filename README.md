@@ -74,3 +74,7 @@ Note that your code should replace “Dave” with the contents of your `first_n
 ## Finishing the exercise
 
 To complete this exercise, download your notebook to your computer and upload it to GitHub in your **own** Exercise 1 repository that you created using the GitHub Classroom link.
+
+## Self assessment from week 1
+
+I'm too old for this shit. 40 and still going up...
